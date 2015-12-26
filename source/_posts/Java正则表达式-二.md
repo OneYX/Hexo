@@ -1,7 +1,12 @@
 title: Java正则表达式(二)
 date: 2015-12-25 22:26:27
-tags:
+tags: regex
 ---
+
+**Java正则表达式工具类**
+
+<!-- more -->
+
 ```java
 /**
  * 正则表达式
@@ -19,7 +24,7 @@ public class Matching {
         flag = m.matches();
         return flag;
     }
-    
+
     //匹配英文字符
     public static boolean getMatchingEnglish(String str){
         boolean flag = false;

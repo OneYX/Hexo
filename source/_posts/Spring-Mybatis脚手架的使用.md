@@ -9,6 +9,9 @@ tags: Develop
 ### 简单说明
 
 这是一个Spring4+Mybatis3的脚手架项目，方便老鸟使用，新手学习。出于个人爱好，我还添加了其他的依赖，以下是全部依赖:
+
+<!-- more -->
+
 ```xml
 <properties>
         <junit-version>3.8.1</junit-version>
